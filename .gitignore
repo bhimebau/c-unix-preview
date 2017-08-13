@@ -1,9 +1,23 @@
+<<<<<<< HEAD
+=======
+# Prerequisites
+*.d
+
+>>>>>>> f2f911a97e76b7fef257fd96de8ba62c419147f9
 # Object files
 *.o
 *.ko
 *.obj
 *.elf
 
+<<<<<<< HEAD
+=======
+# Linker output
+*.ilk
+*.map
+*.exp
+
+>>>>>>> f2f911a97e76b7fef257fd96de8ba62c419147f9
 # Precompiled Headers
 *.gch
 *.pch
@@ -31,3 +45,17 @@
 # Debug files
 *.dSYM/
 *.su
+<<<<<<< HEAD
+=======
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+>>>>>>> f2f911a97e76b7fef257fd96de8ba62c419147f9
